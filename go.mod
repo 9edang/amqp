@@ -1,4 +1,4 @@
-module github.com/9edang/amqp
+module gitlab.com/9edang/amqp
 
 go 1.21.4
 
